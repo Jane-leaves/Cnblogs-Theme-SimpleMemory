@@ -101,9 +101,9 @@ if (initCheck()) {
         menuCustomList: {},
         menuNavList: [],
         menuUserInfoBgImg: '',
-        webpageTitleOnblur: "(oﾟvﾟ)ノ Hi",
+        webpageTitleOnblur: "System:Sleep Mode",
         webpageTitleOnblurTimeOut: 500,
-        webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
+        webpageTitleFocus: "Welcome",
         webpageTitleFocusTimeOut: 1000,
         webpageIcon: "",
         fontIconExtend: "",
@@ -176,8 +176,8 @@ if (initCheck()) {
         homeTopImg: [
             "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
         ],
-        homeBannerText: "",
-        homeBannerTextType: "jinrishici",
+        homeBannerText: "朝雾初升，落叶飘零\n\t让我们把美酒满斟！",
+        homeBannerTextType: "",
         essayTopImg: [
             "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
         ],
@@ -189,7 +189,7 @@ if (initCheck()) {
             fontSize: "14px",
         },
         codeMaxHeight: false,
-        codeLineNumber: false,
+        codeLineNumber: true,
         essayTitleStyle: false,
         essaySuffix: {
             codeImgUrl: '',
@@ -207,7 +207,7 @@ if (initCheck()) {
             left: "",
             right: "",
         },
-        footerStyle: 2,
+        footerStyle: 1,
         consoleList: [],
         bookList: [],
         themeAuthor: false,
