@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+            "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
         ],
-        homeBannerText: "朝雾初升，落叶飘零\n\t让我们把美酒满斟！",
+        homeBannerText: "朝雾初升，落叶飘零<br>让我们把美酒满斟！",
         homeBannerTextType: "",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+            "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
