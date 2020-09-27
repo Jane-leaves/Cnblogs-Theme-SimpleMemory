@@ -100,10 +100,10 @@ if (initCheck()) {
         blogStartDate: "2019-01-01",
         menuCustomList: {},
         menuNavList: [],
-        menuUserInfoBgImg: '',
-        webpageTitleOnblur: "System:Sleep Mode",
+        menuUserInfoBgImg: 'https://i.loli.net/2020/09/27/Bhk2I1GZVYgf6M3.png',
+        webpageTitleOnblur: "(　^ω^)",
         webpageTitleOnblurTimeOut: 500,
-        webpageTitleFocus: "Welcome",
+        webpageTitleFocus: "(^ω^　)",
         webpageTitleFocusTimeOut: 1000,
         webpageIcon: "",
         fontIconExtend: "",
@@ -176,7 +176,7 @@ if (initCheck()) {
         homeTopImg: [
             "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
         ],
-        homeBannerText: "朝雾初升，落叶飘零<br>让我们把美酒满斟！",
+        homeBannerText: "朝雾初升，落叶飘零，让我们把美酒满斟！",
         homeBannerTextType: "",
         essayTopImg: [
             "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
@@ -222,7 +222,7 @@ if (initCheck()) {
         },
         reward: {
             enable: true,
-            wechatpay: 'https://i.loli.net/2020/09/27/YCpKotrkdnJSjc6.png',
+            wechatpay: 'https://i.loli.net/2020/09/27/AjduOCvcptHPEyx.png',
             alipay: ''
         },
         weChatOfficialAccounts: '',
