@@ -193,9 +193,9 @@ if (initCheck()) {
         essayTitleStyle: false,
         essaySuffix: {
             codeImgUrl: '',
-            aboutHtml: '',
-            copyrightHtml: '',
-            supportHtml: ''
+            aboutHtml: 'Znr @ NJU, not all there',
+            copyrightHtml: '采用CC-BY-SA许可协议',
+            supportHtml: '我很可爱，请给我钱.jpg'
         },
         bottomBlogroll: [],
         bottomText: {
@@ -221,8 +221,8 @@ if (initCheck()) {
             }
         },
         reward: {
-            enable: false,
-            wechatpay: '',
+            enable: true,
+            wechatpay: 'https://i.loli.net/2020/09/27/YCpKotrkdnJSjc6.png',
             alipay: ''
         },
         weChatOfficialAccounts: '',
