@@ -226,7 +226,7 @@ if (initCheck()) {
             alipay: ''
         },
         weChatOfficialAccounts: '',
-        advertising: true,
+        advertising: false,
     };
 
     window.cnblogsConfigDefault.hook = {
