@@ -107,10 +107,11 @@ html {
 /*    -webkit-filter:grayscale(1)*/
 /*}*/
 
+/*Lectures & Notes*/
 body {
     background-color: #fff;
     font-size: 12px;
-    font-family: Merriweather, "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
+    font-family: "Merriweather", "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
     color: #3A4145;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
@@ -418,7 +419,7 @@ b {
 .postTitle a:link {
     background-color: rgba(0, 0, 0, 0);
     color: #4a4a4a;
-    font-family: "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
+    font-family: "Noto Serif CJK SC", "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
     font-size: 3.1rem;
     font-weight: 700;
     letter-spacing: -1px;
@@ -736,7 +737,7 @@ p.article-info-text > .postMeta i {
     padding: 0 0 10px;
     -o-text-overflow: ellipsis;
     margin: 4rem auto;
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+    font-family: 'Noto Serif CJK SC', -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
     margin-top: 15px
 }
 
@@ -1067,7 +1068,7 @@ div#tbCommentBodyPreview {
 }
 
 .dev__developer, .entrylistPosttitle a:active, .entrylistPosttitle a:link, .entrylistPosttitle a:visited {
-    font-family: "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif
+    font-family: "Noto Serif CJK SC", "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif
 }
 
 .entrylistDescription {
@@ -1121,7 +1122,7 @@ div#tbCommentBodyPreview {
 }
 
 .entrylistItemPostDesc, .sb-title {
-    font-family: "Open Sans", sans-serif
+    font-family: "Noto Serif CJK SC", "Open Sans", sans-serif
 }
 
 .entrylistItemPostDesc {
@@ -2139,7 +2140,7 @@ div#tbCommentBodyPreview {
 
 .page-title {
     font-size: 5rem;
-    font-family: 'Playball', cursive;
+    font-family: 'Playball', "Noto Serif CJK SC", cursive;
 }
 
 .sb-title {
@@ -2170,7 +2171,7 @@ div#tbCommentBodyPreview {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 10;
     overflow: hidden;
-    font-family: 'Long Cang', cursive;
+    font-family: 'Long Cang', "Noto Serif CJK SC",  cursive;
 }
 
 .page-author {
@@ -2288,7 +2289,7 @@ div#tbCommentBodyPreview {
     border-bottom: #3B3B3B 1px solid;
     word-wrap: break-word;
     margin: 24px 0;
-    font-family: Merriweather, "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
+    font-family: "Noto Serif CJK SC", Merriweather, "Open Sans", "Microsoft Jhenghei", "Microsoft Yahei", sans-serif;
     display: none
 }
 
@@ -2707,7 +2708,7 @@ div#rightMenu > div {
 #cnblogs_post_body > p {
     margin: 13px auto;
     padding: 0;
-    font-family: -apple-system,BlinkMacSystemFont,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Manjari", "Noto Serif CJK SC", -apple-system,BlinkMacSystemFont,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     letter-spacing: .015em;
     font-feature-settings: "tnum";
