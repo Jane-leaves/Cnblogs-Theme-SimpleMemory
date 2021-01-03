@@ -179,7 +179,7 @@ if (initCheck()) {
         homeBannerText: "朝雾初升，落叶飘零，让我们把美酒满斟！",
         homeBannerTextType: "",
         essayTopImg: [
-            "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
+            "https://gitee.com/Jane_leaves/personal-pic/raw/master/img/005tShvygy1flr4vdebqgj347p2dce84.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
