@@ -174,7 +174,7 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://i.loli.net/2020/09/27/Ay2W8fCkNjIJdwc.jpg"
+            "https://gitee.com/Jane_leaves/personal-pic/raw/master/img/005tShvygy1flr4vdebqgj347p2dce84.jpg"
         ],
         homeBannerText: "朝雾初升，落叶飘零，让我们把美酒满斟！",
         homeBannerTextType: "",
@@ -185,7 +185,7 @@ if (initCheck()) {
         essayCodeHighlighting: '',
         essayCodeLanguages: [],
         essayCode: {
-            fontFamily: "'Ubuntu Mono',monospace",
+            fontFamily: "'Noto Serif CJK SC''Ubuntu Mono',monospace",
             fontSize: "14px",
         },
         codeMaxHeight: false,
@@ -222,7 +222,7 @@ if (initCheck()) {
         },
         reward: {
             enable: true,
-            wechatpay: 'https://i.loli.net/2020/09/27/AjduOCvcptHPEyx.png',
+            wechatpay: 'https://gitee.com/Jane_leaves/personal-pic/raw/master/img/mm_facetoface_collect_qrcode_1609672766683.png',
             alipay: ''
         },
         weChatOfficialAccounts: '',
